@@ -23,9 +23,10 @@
 
 **Скриншоты:**
 
-![Главное меню фитнес-бота](fitness_menu.png)
-![Пример тренировки](fitness_workout.png)
-![Окно подписки](fitness_payment.png)
+![Главное меню фитнес-бота](https://raw.githubusercontent.com/Bychok774/portfolio/main/fitness%20menu.png)
+![Пример тренировки](https://raw.githubusercontent.com/Bychok774/portfolio/main/training.png)
+![Окно подписки](https://raw.githubusercontent.com/Bychok774/portfolio/main/payment%20fitness.png)
+![Оплата Stars](https://raw.githubusercontent.com/Bychok774/portfolio/main/stars_pay_fitness.png)
 
 🔗 **Попробовать бота:** [@Fitness_Polina_bot](https://t.me/Fitness_Polina_bot)
 
@@ -46,9 +47,11 @@
 
 **Скриншоты:**
 
-![Главное меню спорт-бота](sport_menu.png)
-![Краткий прогноз](sport_prediction.png)
-![Детальный разбор](sport_payment.png)
+![Главное меню спорт-бота](https://raw.githubusercontent.com/Bychok774/portfolio/main/sport_menu.png)
+![Выбор матча](https://raw.githubusercontent.com/Bychok774/portfolio/main/Sport_match.png)
+![Краткий прогноз](https://raw.githubusercontent.com/Bychok774/portfolio/main/Analytics.png)
+![Оплата разбора](https://raw.githubusercontent.com/Bychok774/portfolio/main/payment%20sport.png)
+![Оплата Stars](https://raw.githubusercontent.com/Bychok774/portfolio/main/stars_pay_sport.png)
 
 🔗 **Попробовать бота:** [@SportExpert_Ai_bot](https://t.me/SportExpert_Ai_bot)
 
@@ -61,7 +64,7 @@
 | Язык | Python 3 |
 | Фреймворк | aiogram 3 |
 | База данных | SQLite |
-| AI | Groq API (Llama 3.3 70B), OpenAI API |
+| AI | Groq API (Llama 3.3 70B) |
 | Платежи | Telegram Stars |
 | API | Football-Data.org |
 | Хостинг | VPS (Нидерланды), PM2 |
